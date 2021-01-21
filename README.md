@@ -2,7 +2,7 @@
 An easy to use tool to manage BuiltIn plugins.
 ## Questions
 ### How do I use this tool?
-Using this tool is easy! To get started,
+Using this tool is easy! To get started, go to the [releases](https://github.com/MrSprinkleToes/BuiltIn-Manager/releases) page and download the `builtinmanager.exe` file from the latest release. From there,
 1. Open the tool.
 2. When prompted, select your Roblox installation. By default, the file selection window should open in Appdata > Local. From there, find the folder named `Roblox` and press it once. Click on select folder on the bottom right.
 3. If done correctly, you should see a list of model files appear. This means it is working!
